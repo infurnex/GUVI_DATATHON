@@ -2,6 +2,9 @@
 
 A data-driven model for predicting the rental price of residential properties based on historical rental data and property attributes.
 
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1l7iAlN6Y0pHHAoC3Eb8T54ESULpzMbT5/preview" frameborder="0" allowfullscreen></iframe>
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
