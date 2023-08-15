@@ -40,4 +40,45 @@ The main goal of this project is to build a machine learning model that accurate
    ```bash
    git clone https://github.com/your-username/rental-price-prediction.git
 
+### Usage
+
+To use the trained rental price prediction model:
+
+Run the Jupyter Notebook Pravartak_Datathon.ipynb to train and evaluate the model.
+
+The trained model will be saved as rent_predictor.pkl.
+
+
+### Model Training
+
+The process of training the rental price prediction model is documented in the Jupyter Notebook Pravartak_Datathon.ipynb. The notebook covers the following steps:
+
+- Data loading and exploration
+- Feature preprocessing and engineering
+- Model selection and training
+- Model evaluation and performance metrics
+
+
+### Model Deployment
+
+Currently, the model is trained and evaluated within the Jupyter Notebook environment. Future work could involve deploying the model as a web application or API using frameworks like Flask or FastAPI.
+
+### Results
+
+The results of the trained model, including performance metrics and predictions on the test dataset, are presented in the Jupyter Notebook Pravartak_Datathon.ipynb.
+
+### Contributing
+
+Contributions to this project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgements
+
+This project was completed as part of the Pravartak Datathon organized by Pravartak and GUVI.
+Special thanks to the organizers, mentors, and contributors.
+
+
 
