@@ -1,7 +1,5 @@
 # Rental Price Prediction Model
 
-![Project Logo](project_logo.png) <!-- Add your project logo here -->
-
 A data-driven model for predicting the rental price of residential properties based on historical rental data and property attributes.
 
 ## Table of Contents
